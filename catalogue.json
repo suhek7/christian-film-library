@@ -42,7 +42,7 @@
     "id": "follower",
     "title": "Follower",
     "creator": "Moving Works",
-    "runtime": null,
+    "runtime": "05:40",
     "language": null,
     "kind": "Documentary testimony",
     "tags": [
@@ -54,14 +54,15 @@
     "youtube": "https://www.youtube.com/watch?v=jqs5rncwHM0",
     "source": "https://movingworks.org/project/follower/",
     "thumbnailSource": "https://cdn.prod.website-files.com/68e6c536afd77c2cc03e6998/699de0615e30328fbd43b6d6_Follower-WF.jpg",
-    "checked": "2026-10-30"
+    "checked": "2026-10-30",
+    "runtimeEvidence": "Duration verified from the original embedded YouTube player on 2026-10-30."
   },
   {
     "number": 4,
     "id": "the-foremost",
     "title": "The Foremost",
     "creator": "Moving Works",
-    "runtime": null,
+    "runtime": "43:26",
     "language": null,
     "kind": "Documentary testimony",
     "tags": [
@@ -73,6 +74,7 @@
     "youtube": "https://www.youtube.com/watch?v=E035CclfjIM",
     "source": "https://movingworks.org/project/the-foremost/",
     "thumbnailSource": "https://cdn.prod.website-files.com/68e6c536afd77c2cc03e6998/699de6ebfb61f23ea9b88d3d_The-Foremost-WF.jpg",
-    "checked": "2026-10-30"
+    "checked": "2026-10-30",
+    "runtimeEvidence": "Duration verified from the original embedded YouTube player on 2026-10-30."
   }
 ]
