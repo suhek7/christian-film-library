@@ -76,5 +76,26 @@
     "thumbnailSource": "https://cdn.prod.website-files.com/68e6c536afd77c2cc03e6998/699de6ebfb61f23ea9b88d3d_The-Foremost-WF.jpg",
     "checked": "2026-10-30",
     "runtimeEvidence": "Duration verified from the original embedded YouTube player on 2026-10-30."
+  },
+  {
+    "number": 5,
+    "id": "sandcastles",
+    "title": "Sandcastles",
+    "creator": "Wonderhunt",
+    "runtime": "04:48",
+    "language": null,
+    "kind": "Narrative film",
+    "tags": [
+      "Hope",
+      "Grief"
+    ],
+    "summary": "A mother and daughter build a sandcastle together, then face what a storm leaves behind. A story about loss and God's presence.",
+    "contentNote": "Themes of grief and loss.",
+    "youtube": "https://www.youtube.com/watch?v=YGzG9UyRwoM",
+    "source": "https://www.wonderhunt.co/films/sandcastles",
+    "thumbnailSource": "https://images.squarespace-cdn.com/content/v1/632dcce4f4b153721ed7dd4a/147dc3b9-4b9f-434f-90ab-1fd62b0e2e8a/Sandcastles_4K.jpg",
+    "checked": "2026-10-30",
+    "runtimeEvidence": "Video element duration is 288 seconds; YouTube player rounds its display to 4:49. Playback verified 30 October 2026.",
+    "creditSource": "https://www.imdb.com/title/tt49166230/?ref_=sr_t_1"
   }
 ]
