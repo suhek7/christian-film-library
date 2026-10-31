@@ -97,5 +97,25 @@
     "checked": "2026-10-30",
     "runtimeEvidence": "Video element duration is 288 seconds; YouTube player rounds its display to 4:49. Playback verified 30 October 2026.",
     "creditSource": "https://www.imdb.com/title/tt49166230/?ref_=sr_t_1"
+  },
+  {
+    "number": 6,
+    "id": "always",
+    "title": "Always",
+    "creator": "Wonderhunt",
+    "runtime": "04:41",
+    "language": null,
+    "kind": "Narrative film",
+    "tags": [
+      "Love",
+      "Faithfulness"
+    ],
+    "summary": "Eddie stays beside Lois through the slow devastation of dementia. A story about love, faithfulness and what that kind of love reveals about God.",
+    "contentNote": "Portrays dementia and caregiving.",
+    "youtube": "https://www.youtube.com/watch?v=H1pVvdDE86w",
+    "source": "https://www.wonderhunt.co/films/remember-me",
+    "thumbnailSource": "https://images.squarespace-cdn.com/content/v1/632dcce4f4b153721ed7dd4a/4f43bc79-70e0-4a6a-a5c6-9f3562c10ade/Always_4K.jpg",
+    "checked": "2026-10-31",
+    "runtimeEvidence": "Video element duration is 281 seconds (4:41), verified from the original Wonderhunt YouTube upload on 31 October 2026."
   }
 ]
