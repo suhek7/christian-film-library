@@ -117,5 +117,25 @@
     "thumbnailSource": "https://images.squarespace-cdn.com/content/v1/632dcce4f4b153721ed7dd4a/4f43bc79-70e0-4a6a-a5c6-9f3562c10ade/Always_4K.jpg",
     "checked": "2026-10-31",
     "runtimeEvidence": "Video element duration is 281 seconds (4:41), verified from the original Wonderhunt YouTube upload on 31 October 2026."
+  },
+  {
+    "number": 7,
+    "id": "ratchagar",
+    "title": "Ratchagar",
+    "creator": "Jesus Calls",
+    "runtime": "12:02",
+    "language": "Tamil",
+    "kind": "Narrative film",
+    "tags": [
+      "Family",
+      "Parenting"
+    ],
+    "summary": "Directed by Thomson, this Tamil short film looks at parenting and the example that raises godly children.",
+    "contentNote": "",
+    "youtube": "https://www.youtube.com/watch?v=YI9Et6WtdZ4",
+    "source": "https://www.youtube.com/@JesusCallsTamil",
+    "thumbnailSource": "https://i.ytimg.com/vi/YI9Et6WtdZ4/maxresdefault.jpg",
+    "checked": "2026-11-01",
+    "runtimeEvidence": "Player response reports 722 seconds (12:02) for the official Jesus Calls Tamil upload, verified 1 November 2026."
   }
 ]
