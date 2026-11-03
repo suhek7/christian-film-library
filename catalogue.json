@@ -157,5 +157,25 @@
     "thumbnailSource": "https://i.ytimg.com/vi/Hs980DuOBNU/maxresdefault.jpg",
     "checked": "2026-11-02",
     "runtimeEvidence": "Player response reports 1860 seconds (31:00) for the official studio upload, verified 2 November 2026."
+  },
+  {
+    "number": 9,
+    "id": "thaamadhamaana-dheepam",
+    "title": "Thaamadhamaana Dheepam",
+    "creator": "Jesus Redeems",
+    "runtime": "25:19",
+    "language": "Tamil",
+    "kind": "Narrative film",
+    "tags": [
+      "Family",
+      "Fatherhood"
+    ],
+    "summary": "A Father's Day special short film from Jesus Redeems Ministries. In Tamil, with English subtitles available (CC).",
+    "contentNote": "",
+    "youtube": "https://www.youtube.com/watch?v=uDnDX50Yz-s",
+    "source": "https://www.youtube.com/@Jesusredeems_ministries",
+    "thumbnailSource": "https://i.ytimg.com/vi/uDnDX50Yz-s/maxresdefault.jpg",
+    "checked": "2026-11-03",
+    "runtimeEvidence": "Player response reports 1519 seconds (25:19) for the official Jesus Redeems upload, verified 3 November 2026."
   }
 ]
