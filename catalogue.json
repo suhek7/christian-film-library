@@ -217,5 +217,65 @@
     "thumbnailSource": "https://cdn.prod.website-files.com/68e6c536afd77c2cc03e6998/699cc37e894eb7a25b246823_Vapor.jpg",
     "checked": "2026-11-04",
     "runtimeEvidence": "Official Moving Works player response reports 239 seconds (3:59), verified 4 November 2026."
+  },
+  {
+    "number": 12,
+    "id": "runaway-son",
+    "title": "Runaway Part 1: Son",
+    "creator": "Wonderhunt",
+    "runtime": "06:52",
+    "language": "English",
+    "kind": "Narrative film",
+    "tags": [
+      "Grace",
+      "Family"
+    ],
+    "summary": "A young boy runs away after conflict at home. A modern Prodigal Son story about shame, coming home and unconditional love.",
+    "contentNote": "",
+    "youtube": "https://www.youtube.com/watch?v=D1ZO1yCXNNU",
+    "source": "https://www.wonderhunt.co/films/runaway",
+    "thumbnailSource": "https://images.squarespace-cdn.com/content/v1/632dcce4f4b153721ed7dd4a/7aaecf5c-bb2c-451e-ba69-55973b1dc7e9/RUNAWAY_SON_4K_ComingSoon.jpg",
+    "checked": "2026-11-04",
+    "runtimeEvidence": "Official Wonderhunt player response reports 412 seconds, verified 4 November 2026."
+  },
+  {
+    "number": 13,
+    "id": "runaway-brother",
+    "title": "Runaway Part 2: Brother",
+    "creator": "Wonderhunt",
+    "runtime": "07:20",
+    "language": "English",
+    "kind": "Narrative film",
+    "tags": [
+      "Grace",
+      "Family"
+    ],
+    "summary": "The son who stays behind tries to earn love through obedience. A Prodigal Son story about striving and receiving grace.",
+    "contentNote": "",
+    "youtube": "https://www.youtube.com/watch?v=I9ZHG0vzRi0",
+    "source": "https://www.wonderhunt.co/films/runaway",
+    "thumbnailSource": "https://images.squarespace-cdn.com/content/v1/632dcce4f4b153721ed7dd4a/9f33f0e2-fab1-46f2-b5ba-17ab81b91ace/RUNAWAY_BROTHER_4K_ComingSoon.jpg",
+    "checked": "2026-11-04",
+    "runtimeEvidence": "Official Wonderhunt player response reports 440 seconds, verified 4 November 2026."
+  },
+  {
+    "number": 14,
+    "id": "runaway-mother",
+    "title": "Runaway Part 3: Mother",
+    "creator": "Wonderhunt",
+    "runtime": "07:10",
+    "language": "English",
+    "kind": "Narrative film",
+    "tags": [
+      "Love",
+      "Family"
+    ],
+    "summary": "A mother loves two sons, one who runs and one who stays. A Prodigal Son story about love that refuses to keep score.",
+    "contentNote": "",
+    "youtube": "https://www.youtube.com/watch?v=QiANdP3ihtY",
+    "source": "https://www.wonderhunt.co/films/runaway",
+    "thumbnailSource": "https://images.squarespace-cdn.com/content/v1/632dcce4f4b153721ed7dd4a/4882def9-288d-4749-b729-81030fb6bc1f/RUNAWAY_MOTHER_4K_ComingSoon.jpg",
+    "checked": "2026-11-04",
+    "runtimeEvidence": "Official Wonderhunt player response reports 430 seconds, verified 4 November 2026."
   }
 ]
