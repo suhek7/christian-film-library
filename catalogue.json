@@ -297,5 +297,45 @@
     "thumbnailSource": "https://i.ytimg.com/vi/zTIB3UkdMgQ/hqdefault.jpg",
     "checked": "2026-11-04",
     "runtimeEvidence": "Official camp upload player response reports 141 seconds (2:21), verified 4 November 2026. Directed by Paul Leavitt; written and edited by Zack Lawrence."
+  },
+  {
+    "number": 16,
+    "id": "reset-and-restart",
+    "title": "Reset & Restart",
+    "creator": "UTurn / Jesus Calls",
+    "runtime": "20:43",
+    "language": "Tamil",
+    "kind": "Narrative film",
+    "tags": [
+      "Faith",
+      "Hope"
+    ],
+    "summary": "A young man facing unemployment rethinks his expectations, skills and work ethic after receiving Christian counsel. Presented with Samuel Dhinakaran’s reflections.",
+    "contentNote": "",
+    "youtube": "https://www.youtube.com/watch?v=_Hz98tAjvkM",
+    "source": "https://www.uturn.in/gallery",
+    "thumbnailSource": "https://i.ytimg.com/vi/_Hz98tAjvkM/hqdefault.jpg",
+    "checked": "2026-11-04",
+    "runtimeEvidence": "Official UTurn upload player response reports 1243 seconds, verified 4 November 2026. Runtime includes the presented film and accompanying reflections."
+  },
+  {
+    "number": 17,
+    "id": "disconnected",
+    "title": "Disconnected",
+    "creator": "UTurn / Jesus Calls",
+    "runtime": "09:53",
+    "language": "Tamil",
+    "kind": "Narrative film",
+    "tags": [
+      "Faith",
+      "Community"
+    ],
+    "summary": "A Tamil Christian short film about social-media distraction and reconnecting with God, with reflections from Samuel Dhinakaran.",
+    "contentNote": "",
+    "youtube": "https://www.youtube.com/watch?v=kEEfXsGr7N8",
+    "source": "https://www.uturn.in/gallery",
+    "thumbnailSource": "https://i.ytimg.com/vi/kEEfXsGr7N8/hqdefault.jpg",
+    "checked": "2026-11-04",
+    "runtimeEvidence": "Official UTurn upload player response reports 593 seconds, verified 4 November 2026. Runtime includes the presented film and accompanying reflections."
   }
     ]
