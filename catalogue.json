@@ -177,5 +177,25 @@
     "thumbnailSource": "https://i.ytimg.com/vi/uDnDX50Yz-s/maxresdefault.jpg",
     "checked": "2026-11-03",
     "runtimeEvidence": "Player response reports 1519 seconds (25:19) for the official Jesus Redeems upload, verified 3 November 2026."
+  },
+  {
+    "number": 10,
+    "id": "in-the-light",
+    "title": "In the Light",
+    "creator": "Moving Works",
+    "runtime": "02:32",
+    "language": "English",
+    "kind": "Scripture film",
+    "tags": [
+      "Hope",
+      "Faith"
+    ],
+    "summary": "Inspired by John 8:12, a short Scripture film about Jesus as the light that overcomes darkness.",
+    "contentNote": "",
+    "youtube": "https://www.youtube.com/watch?v=7S3Ht8_p3Zk",
+    "source": "https://movingworks.org/films/in-the-light",
+    "thumbnailSource": "https://cdn.prod.website-files.com/68e6c536afd77c2cc03e6998/699de1b472a82eb9ff3ba3fe_In-the-Light-WF.jpg",
+    "checked": "2026-11-04",
+    "runtimeEvidence": "Official Moving Works player response reports 152 seconds (2:32), verified 4 November 2026."
   }
 ]
