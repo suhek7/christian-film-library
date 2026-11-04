@@ -277,5 +277,25 @@
     "thumbnailSource": "https://i.ytimg.com/vi/QiANdP3ihtY/hqdefault.jpg",
     "checked": "2026-11-04",
     "runtimeEvidence": "Official Wonderhunt player response reports 430 seconds, verified 4 November 2026."
+  },
+  {
+    "number": 15,
+    "id": "oncoming-truck",
+    "title": "Oncoming Truck",
+    "creator": "Rocky Mountain Christian Filmmakers & Actors Camp / Standing Sun Productions",
+    "runtime": "02:21",
+    "language": "English",
+    "kind": "Narrative film",
+    "tags": [
+      "Faith",
+      "Community"
+    ],
+    "summary": "A student-made Christian comedy turns an approaching truck into a parable about the excuses people make for not sharing their faith.",
+    "contentNote": "Depicts people in danger from an approaching vehicle.",
+    "youtube": "https://www.youtube.com/watch?v=zTIB3UkdMgQ",
+    "source": "https://www.standingsun.com/movies/oncoming-truck/",
+    "thumbnailSource": "https://i.ytimg.com/vi/zTIB3UkdMgQ/hqdefault.jpg",
+    "checked": "2026-11-04",
+    "runtimeEvidence": "Official camp upload player response reports 141 seconds (2:21), verified 4 November 2026. Directed by Paul Leavitt; written and edited by Zack Lawrence."
   }
     ]
