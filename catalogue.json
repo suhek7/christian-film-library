@@ -197,5 +197,25 @@
     "thumbnailSource": "https://cdn.prod.website-files.com/68e6c536afd77c2cc03e6998/699de1b472a82eb9ff3ba3fe_In-the-Light-WF.jpg",
     "checked": "2026-11-04",
     "runtimeEvidence": "Official Moving Works player response reports 152 seconds (2:32), verified 4 November 2026."
+  },
+  {
+    "number": 11,
+    "id": "vapor",
+    "title": "Vapor",
+    "creator": "Moving Works",
+    "runtime": "03:59",
+    "language": "English",
+    "kind": "Scripture film",
+    "tags": [
+      "Faith",
+      "Hope"
+    ],
+    "summary": "A short film questioning the promises of the American dream and pointing toward new life in Christ.",
+    "contentNote": "",
+    "youtube": "https://www.youtube.com/watch?v=XppxgYYb7Hk",
+    "source": "https://movingworks.org/films/vapor",
+    "thumbnailSource": "https://cdn.prod.website-files.com/68e6c536afd77c2cc03e6998/699cc37e894eb7a25b246823_Vapor.jpg",
+    "checked": "2026-11-04",
+    "runtimeEvidence": "Official Moving Works player response reports 239 seconds (3:59), verified 4 November 2026."
   }
 ]
