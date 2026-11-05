@@ -397,5 +397,25 @@
     "thumbnailSource": "https://i.ytimg.com/vi/ZYhjbWpYBTo/maxresdefault.jpg",
     "checked": "2026-11-05",
     "runtimeEvidence": "Official Spread Truth player reports 426 seconds (7:06), verified 5 November 2026. English dialogue verified from the exact-upload transcript. Includes Alistair Begg sermon audio from The Power and Message of the Cross, preached 20 November 2019."
+  },
+  {
+    "number": 21,
+    "id": "the-story-film",
+    "title": "The Story Film",
+    "creator": "Spread Truth",
+    "runtime": "05:55",
+    "language": "English",
+    "kind": "Narrative film",
+    "tags": [
+      "Faith",
+      "Hope"
+    ],
+    "summary": "An animated journey through creation, humanity's fall, rescue through Jesus and the promise of restoration. A short retelling of the Bible's central story.",
+    "contentNote": "Discusses sin, death, hell and the crucifixion.",
+    "youtube": "https://www.youtube.com/watch?v=f0gfIvN9zv4",
+    "source": "https://thestoryfilm.com/en",
+    "thumbnailSource": "https://i.ytimg.com/vi/f0gfIvN9zv4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF4gTyhlMA8=&rs=AOn4CLD1WOcI-lE4KxXaOLCPBwWRBcDf5g",
+    "checked": "2026-11-05",
+    "runtimeEvidence": "Official Spread Truth upload reports 355 seconds (5:55). English narration verified from the exact-upload transcript, 5 November 2026. Script Erin Straza; voice Robert Ricotta; animation director Phil Borst; producer Josh Jeffrey."
   }
 ]
