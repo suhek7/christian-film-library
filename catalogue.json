@@ -477,5 +477,25 @@
     "thumbnailSource": "https://i.ytimg.com/vi_webp/iwjPCtb2WYU/maxresdefault.webp?v=67af3ecc",
     "checked": "2026-11-05",
     "runtimeEvidence": "Official UTurn upload reports 778 seconds (12:58); original film playback verified after ads, duration 777.561 seconds, 5 November 2026. Tamil dialogue verified from the exact-upload transcript. Runtime includes Christian counsel, prayer and a Young Partner Plan promotional ending."
+  },
+  {
+    "number": 25,
+    "id": "busy-life-vs-family",
+    "title": "Busy Life vs Family",
+    "creator": "UTurn / Jesus Calls",
+    "runtime": "08:20",
+    "language": "Tamil",
+    "kind": "Narrative film",
+    "tags": [
+      "Faith",
+      "Family"
+    ],
+    "summary": "Vijay rushes past his mother's care, then learns to notice her effort and make time for family. Includes Samuel Dhinakaran's reflection and a closing Family Blessing Plan promotion.",
+    "contentNote": "Family conflict and sadness.",
+    "youtube": "https://www.youtube.com/watch?v=MRirvmD73nA",
+    "source": "https://www.uturn.in/gallery",
+    "thumbnailSource": "https://i.ytimg.com/vi/MRirvmD73nA/maxresdefault.jpg?v=663f5ed5",
+    "checked": "2026-11-06",
+    "runtimeEvidence": "Official UTurn upload reports 500 seconds (8:20); film playback verified after ads, duration 500.161 seconds, 6 November 2026. Tamil dialogue verified from the exact-upload transcript. Runtime includes Samuel Dhinakaran's reflection and a Family Blessing Plan promotion."
   }
 ]
