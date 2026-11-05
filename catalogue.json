@@ -357,5 +357,25 @@
     "thumbnailSource": "https://i.ytimg.com/vi/tUj1UN3ZRpo/hqdefault.jpg",
     "checked": "2026-11-04",
     "runtimeEvidence": "Official director upload player response reports 374 seconds (6:14), verified 4 November 2026. Directed by Zack Lawrence; written and produced by Zack Lawrence and Paul Strople. Upload includes a closing filmmaker message."
+  },
+  {
+    "number": 19,
+    "id": "the-story-maker",
+    "title": "The Story Maker",
+    "creator": "Spread Truth",
+    "runtime": "07:30",
+    "language": null,
+    "kind": "Animated film",
+    "tags": [
+      "Faith",
+      "Hope"
+    ],
+    "summary": "Two children enter a toy workshop and discover the Bible story of creation, brokenness and rescue through Jesus. An animated gospel film for children.",
+    "contentNote": "",
+    "youtube": "https://www.youtube.com/watch?v=XbrsAF2_BOk",
+    "source": "https://thestorymaker.com/",
+    "thumbnailSource": "https://i.ytimg.com/vi/XbrsAF2_BOk/maxresdefault.jpg",
+    "checked": "2026-11-05",
+    "runtimeEvidence": "Official Spread Truth player response reports 450 seconds (7:30), verified 5 November 2026. Animation Phil Borst; script Erin Straza; music Grant Fonda; voice Charlotte Parry. Exact-upload language not independently verified."
   }
-    ]
+]
