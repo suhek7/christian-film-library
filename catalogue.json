@@ -557,5 +557,25 @@
     "thumbnailSource": "https://i.ytimg.com/vi/3pzTPhNURIQ/maxresdefault.jpg",
     "checked": "2026-11-06",
     "runtimeEvidence": "Exact original upload matched to Moving Works official film page. English dialogue verified from the full exact-upload transcript. Upload reports 688 seconds (11:28); actual film playback duration 687.781 seconds, verified 6 November 2026."
+  },
+  {
+    "number": 29,
+    "id": "joy-story",
+    "title": "Joy Story",
+    "creator": "Outside da Box / Diocese of Wheeling-Charleston",
+    "runtime": "06:20",
+    "language": "English",
+    "kind": "Narrative film",
+    "tags": [
+      "Faith",
+      "Christmas"
+    ],
+    "summary": "A toy soldier wanders into a nativity scene, where the figurines explain Jesus' birth and Mary's role through a comic Catholic conversation. Part of the VCAT video catechism series.",
+    "contentNote": "Toy weapons and comic threats; discussion of sex, marriage and virginity. Presents Catholic teachings about Mary.",
+    "youtube": "https://www.youtube.com/watch?v=kVZMmCkAgm8",
+    "source": "https://vcat.org/joy-story/",
+    "thumbnailSource": "https://i.ytimg.com/vi/kVZMmCkAgm8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUSg9MA8=&rs=AOn4CLC7QCl2yl2Erjxbk2vnHfTqcvTKSA",
+    "checked": "2026-11-06",
+    "runtimeEvidence": "Exact ODB Films upload identifies Outside da Box and Diocese of Wheeling-Charleston production and VCAT affiliation. VCAT official page embeds the same film on Rob Wickham's channel; ODB Films upload uses its original production channel. Full English dialogue verified from exact-upload transcript. Upload reports 380 seconds (6:20); actual non-ad film playback 379.661 seconds, verified 6 November 2026."
   }
 ]
