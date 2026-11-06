@@ -497,5 +497,24 @@
     "thumbnailSource": "https://i.ytimg.com/vi/MRirvmD73nA/maxresdefault.jpg?v=663f5ed5",
     "checked": "2026-11-06",
     "runtimeEvidence": "Official UTurn upload reports 500 seconds (8:20); film playback verified after ads, duration 500.161 seconds, 6 November 2026. Tamil dialogue verified from the exact-upload transcript. Runtime includes Samuel Dhinakaran's reflection and a Family Blessing Plan promotion."
+  },
+  {
+    "number": 26,
+    "id": "zombies-vs-jesus",
+    "title": "Zombies vs. Jesus",
+    "creator": "Outside da Box / Spirit Juice Studios",
+    "runtime": "07:24",
+    "language": "English",
+    "kind": "Narrative film",
+    "tags": [
+      "Faith"
+    ],
+    "summary": "Two friends flee a zombie outbreak and find a priest who turns their fear into a Catholic parable about sin and the Eucharist.",
+    "contentNote": "Zombie makeup, frightening imagery, chases and threats.",
+    "youtube": "https://www.youtube.com/watch?v=3Y2BrmcVf6c",
+    "source": "https://zombiesvsjesus.com/#all",
+    "thumbnailSource": "https://i.ytimg.com/vi_webp/3Y2BrmcVf6c/maxresdefault.webp",
+    "checked": "2026-11-06",
+    "runtimeEvidence": "Official English link matches this Spirit Juice upload: 444 seconds (7:24), actual playback 443.821 seconds. Exact-upload English transcript verified 6 November 2026. Copyright 2012 Outside da Box and Spirit Juice Studios; writer Bob Rice."
   }
 ]
