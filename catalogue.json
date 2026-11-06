@@ -536,5 +536,26 @@
     "thumbnailSource": "https://i.ytimg.com/vi/KGlx11BxF24/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGcgZyhnMA8=&rs=AOn4CLCA3gzP8sEv4wT0AIuq-FdhQLgkow",
     "checked": "2026-11-06",
     "runtimeEvidence": "Cru official page embeds this exact upload. English script and production credits verified in original description. Runtime 247 seconds (4:07); original film playback 247.441 seconds, 6 November 2026. Copyright Cru 2012; written, shot and edited by Strong Films."
+  },
+  {
+    "number": 28,
+    "id": "peanut-butter-jesus",
+    "title": "Peanut Butter & Jesus",
+    "creator": "Moving Works",
+    "runtime": "11:28",
+    "language": "English",
+    "kind": "Documentary testimony",
+    "tags": [
+      "Faith",
+      "Service",
+      "Community"
+    ],
+    "summary": "Tony recounts his return to Christian faith and how a call to serve grew from a few sandwiches into a weekly community bringing meals, practical resources and Bibles to people experiencing homelessness in Austin.",
+    "contentNote": "Discussion of parental heroin addiction, childhood distress, poverty and homelessness.",
+    "youtube": "https://www.youtube.com/watch?v=3pzTPhNURIQ",
+    "source": "https://movingworks.org/films/peanut-butter-jesus",
+    "thumbnailSource": "https://i.ytimg.com/vi/3pzTPhNURIQ/maxresdefault.jpg",
+    "checked": "2026-11-06",
+    "runtimeEvidence": "Exact original upload matched to Moving Works official film page. English dialogue verified from the full exact-upload transcript. Upload reports 688 seconds (11:28); actual film playback duration 687.781 seconds, verified 6 November 2026."
   }
 ]
