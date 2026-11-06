@@ -597,5 +597,26 @@
     "thumbnailSource": "https://i.ytimg.com/vi/unk6AjBBncE/maxresdefault.jpg",
     "checked": "2026-11-06",
     "runtimeEvidence": "Original ODB Films upload identifies Outside da Box with Diocese of Wheeling-Charleston, VCAT film7. Official VCAT page embeds an alternate upload of the same film. Full English exact-upload transcript verified. Upload reports288seconds (4:48); original non-ad playback287.602seconds, verified6November2026."
+  },
+  {
+    "number": 31,
+    "id": "38-hours",
+    "title": "38 Hours",
+    "creator": "Outside da Box / Diocese of Wheeling-Charleston",
+    "runtime": "05:07",
+    "language": "English",
+    "kind": "Narrative film",
+    "tags": [
+      "Faith",
+      "Hope",
+      "Family"
+    ],
+    "summary": "After an earthquake destroys his son's school, a father keeps digging through the rubble, holding to his promise never to leave his boy. A story of perseverance from the Catholic VCAT series, directed by Bonnie Gruesen.",
+    "contentNote": "Earthquake aftermath, a child feared dead, family distress and discussion of parental separation.",
+    "youtube": "https://www.youtube.com/watch?v=HARB7Deq2SQ",
+    "source": "https://vcat.org/38-hours/",
+    "thumbnailSource": "https://i.ytimg.com/vi/HARB7Deq2SQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChXMA8=&rs=AOn4CLAISYV8QdiDmstqlZZtHOLmJWQH_g",
+    "checked": "2026-11-06",
+    "runtimeEvidence": "Original ODB Films upload identifies Outside da Box with Diocese of Wheeling-Charleston, VCAT2, director Bonnie Gruesen. Official VCAT Creed page links film page and embeds alternate upload. Full English exact-upload transcript verified. Upload reports307seconds (5:07); actual non-ad film307.341seconds, verified6November2026."
   }
 ]
