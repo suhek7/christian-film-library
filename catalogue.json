@@ -1135,5 +1135,26 @@
     "thumbnailSource": "https://cdn.prod.website-files.com/68e6c536afd77c2cc03e6998/699ddbd71dee22565808971a_Alex-was-an-Atheist-WF.jpg",
     "checked": "2026-11-07",
     "runtimeEvidence": "Exact official upload: Moving Works, English, 250 seconds (4:10); player duration 250.261 seconds. Full authored English transcript reviewed; original non-ad playback and film pixels checked 7 November 2026."
+  },
+  {
+    "number": 57,
+    "id": "city-life",
+    "title": "City Life",
+    "creator": "Moving Works",
+    "runtime": "04:09",
+    "language": "English",
+    "kind": "Documentary testimony",
+    "tags": [
+      "Faith",
+      "Community",
+      "Service"
+    ],
+    "summary": "Jonathan recalls moving to Austin in 2006 to plant a church, forming small communities and seeking to serve the city through his Christian faith.",
+    "contentNote": "Discusses religious disagreement, evangelism and public baptisms, with a brief spoken reference to nudists. A historical church-planting testimony, not a current church or service directory.",
+    "youtube": "https://www.youtube.com/watch?v=e1aEHKNgVMc",
+    "source": "https://movingworks.org/films/city-life",
+    "thumbnailSource": "https://cdn.prod.website-files.com/68e6c536afd77c2cc03e6998/699ddd3f45131faeff63b550_City-Life-WF.jpg",
+    "checked": "2026-11-07",
+    "runtimeEvidence": "Official Moving Works VideoObject links this exact upload; Moving Works channel249seconds (4:09), actual248.741seconds, embed permitted. Full English transcript reviewed. Original non-ad0.089->16.095/ready4 and actual film pixels verified7November2026. Statements about church size, partnerships and plans belong to the historical film, not present-day verification."
   }
 ]
