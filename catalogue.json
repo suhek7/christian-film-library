@@ -968,5 +968,26 @@
     "thumbnailSource": "https://i.ytimg.com/vi_webp/yAbm4HWyZ2w/maxresdefault.webp",
     "checked": "2026-11-07",
     "runtimeEvidence": "Official Moving Works page identifies English and links this exact upload in its VideoObject. Upload183seconds (3:03), actual183.261seconds. Full authored English transcript read in YouTube,0:04-2:42,Isaiah9:2-7. Original non-ad playback advances2.901->21.500/ready4; visual samples at1:08 and2:11 inspected. Verified7November2026."
+  },
+  {
+    "number": 49,
+    "id": "the-call",
+    "title": "The Call",
+    "creator": "Moving Works",
+    "runtime": "02:42",
+    "language": "English",
+    "kind": "Scripture film",
+    "tags": [
+      "Faith",
+      "Hope",
+      "Loneliness"
+    ],
+    "summary": "Benjamin Roberts' poetry follows a restless search through city streets and open landscapes. This reflective film moves from emptiness and loneliness toward God's love, closing with Jesus' invitation to rest in Matthew 11:28.",
+    "contentNote": "Poetic references to despair, loneliness and crucifixion. A Christian poetry film inspired by scripture, not a narrative drama or mental-health advice.",
+    "youtube": "https://www.youtube.com/watch?v=2Zmiu3MteHQ",
+    "source": "https://movingworks.org/films/the-call",
+    "thumbnailSource": "https://i.ytimg.com/vi_webp/2Zmiu3MteHQ/maxresdefault.webp",
+    "checked": "2026-11-07",
+    "runtimeEvidence": "Official Moving Works page identifies English and links this exact upload in its VideoObject. Upload162seconds (2:42), actual162.201seconds, matching the2015BottomLine interview/review. Full authored English transcript read in YouTube,0:05-2:34,including closing Matthew11:28. ScriptBenjaminRoberts/voiceMarvGoldsher per official description. Originalnon-ad0.718->20.768/ready4/cityfilm pixels verified7November2026."
   }
 ]
