@@ -1320,5 +1320,27 @@
     "checked": "2026-11-08",
     "runtimeEvidence": "Exact upload linked by official Moving Works page; official download table labels English / No Subtitles. Authored English transcript reviewed from0:04to1:50. Actual119.954seconds, displayed1:59; title describes two-minute short. Original opening, midfilm, closing and ended state checked8November2026. Derived from Eyes Open, not the longer original.",
     "number": 65
+  },
+  {
+    "id": "christmas-exodus",
+    "title": "Christmas Exodus",
+    "creator": "Love Black Country Creatives",
+    "runtime": "03:55",
+    "language": "English",
+    "kind": "Narrative film",
+    "tags": [
+      "Hope",
+      "Christmas",
+      "Community"
+    ],
+    "summary": "Four people face a difficult Christmas during the 2020 pandemic. A neighbour's kindness connects their different journeys home with the Christian message of Immanuel, God with us.",
+    "contentNote": "Text-led Christmas story with a song, pandemic isolation, work worries and a closing invitation to local churches. English on-screen text; not a dialogue-led film. The setting and support links are from 2020, not current public-health guidance or a verified present-day referral.",
+    "youtube": "https://www.youtube.com/watch?v=QTM-EqICcA0",
+    "source": "https://www.blepo.co/portfolio/christmas-advert/",
+    "thumbnailSource": "https://i.ytimg.com/vi_webp/QTM-EqICcA0/maxresdefault.webp?v=5fd3b107",
+    "checked": "2026-11-08",
+    "runtimeEvidence": "Exact Love Black Country upload embedded in Blepo's project portfolio, which names Love Black Country as client. Creator's Christmas Exodus project page and 14 December 2020 release announcement identify the full four-minute film. Actual235.542seconds, displayed3:55; original non-ad opening, middle, closing and ended state checked8November2026. English on-screen story text inspected; English auto-captioned song reviewed0:04-3:55. Language here describes the text-led presentation, not a spoken-dialogue claim.",
+    "checkedDisplay": "8 November 2026",
+    "number": 66
   }
 ]
