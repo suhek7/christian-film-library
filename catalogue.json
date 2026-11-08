@@ -1342,5 +1342,27 @@
     "runtimeEvidence": "Exact Love Black Country upload embedded in Blepo's project portfolio, which names Love Black Country as client. Creator's Christmas Exodus project page and 14 December 2020 release announcement identify the full four-minute film. Actual235.542seconds, displayed3:55; original non-ad opening, middle, closing and ended state checked8November2026. English on-screen story text inspected; English auto-captioned song reviewed0:04-3:55. Language here describes the text-led presentation, not a spoken-dialogue claim.",
     "checkedDisplay": "8 November 2026",
     "number": 66
+  },
+  {
+    "id": "reflections-of-thankfulness",
+    "title": "Reflections of Thankfulness",
+    "creator": "Standing Sun Productions / Zack Lawrence",
+    "runtime": "02:30",
+    "language": "English",
+    "kind": "Scripture film",
+    "tags": [
+      "Faith",
+      "Gratitude",
+      "Nature"
+    ],
+    "summary": "Children read Bible passages about thanksgiving and peace over autumn woodland scenes, inviting reflection on gratitude as seasons change.",
+    "contentNote": "A Scripture-and-nature short with children narrating. Includes a closing creator support/community appeal; Bible passages about anxiety and peace are presented as Christian reflection, not mental-health treatment advice.",
+    "youtube": "https://www.youtube.com/watch?v=cKh1XNf2naY",
+    "source": "https://www.standingsun.com/2020/11/16/reflections-of-thankfulness/",
+    "thumbnailSource": "https://www.zacklawrence.com/wp-content/uploads/2020/11/Reflections-of-Thankfulness-thumbnail.jpg",
+    "checked": "2026-11-08",
+    "checkedDisplay": "8 November 2026",
+    "runtimeEvidence": "Exact original Zack Lawrence upload embedded in the Standing Sun release post. Official studio title page explicitly labels English and rounds runtime to3minutes; exact player runs150.192seconds, displayed2:30. Full authored English transcript0:13-1:34 reviewed; original non-ad opening, middle, closing and ended state checked8November2026. Creator credits Zack Lawrence filming/editing and Ace, Bubbles, Smiley and Buddy Lawrence narration.",
+    "number": 67
   }
 ]
