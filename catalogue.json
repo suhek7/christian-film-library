@@ -1428,5 +1428,27 @@
     "checkedDisplay": "8 November 2026",
     "runtimeEvidence": "Official Moving Works page embeds this exact upload and labels the unsubtitled original English. Full authored English transcript reviewed0:03-1:45. Exact119.978seconds, displayed1:59 after loading; creator describes a two-minute short derived from Blessed. Original non-ad opening, middle, closing and ended state checked8November2026.",
     "number": 70
+  },
+  {
+    "id": "adopted",
+    "title": "Adopted",
+    "creator": "Moving Works",
+    "runtime": "08:44",
+    "language": "English",
+    "kind": "Documentary testimony",
+    "tags": [
+      "Faith",
+      "Family",
+      "Love"
+    ],
+    "summary": "After a three-and-a-half-year wait, Peter and Erin travel to Ethiopia to meet their daughter Tirfe. Their family story is interwoven with Scripture about being welcomed into God's family.",
+    "contentNote": "Discusses loss of a birth mother, early childhood adversity and separation from an original family. Includes emotionally loaded orphan language, Christian sin and salvation imagery, and the parents' personal adoption perspective. A historical testimony, not current adoption guidance or a claim that adoption erases grief.",
+    "youtube": "https://www.youtube.com/watch?v=-iaCFZ-RuUw",
+    "source": "https://movingworks.org/films/adopted",
+    "thumbnailSource": "https://cdn.prod.website-files.com/68e6c536afd77c2cc03e6998/699ddbc54ec0651359019f6a_Adopted-WF.jpg",
+    "checked": "2026-11-08",
+    "checkedDisplay": "8 November 2026",
+    "runtimeEvidence": "Official Moving Works page embeds this exact upload and labels the unsubtitled original English. Full authored English transcript reviewed0:03-8:25. Loaded player duration524.561seconds displays8:44; initial rounded metadata gives525seconds. Original non-ad opening, middle, closing and ended state checked8November2026.",
+    "number": 71
   }
 ]
