@@ -1519,5 +1519,27 @@
     "checkedDisplay": "9 November 2026",
     "runtimeEvidence": "Current ODB Films homepage links its Prayer collection to this exact official ODB Films upload. Upload description credits producer Stewart H. Redwine of 36 Parables. English on-screen Psalm text and original opening, middle and closing imagery reviewed. Exact94.458774seconds, player1:34; playlist rounds to1:35. Original non-ad playback and ended state verified9November2026.",
     "number": 74
+  },
+  {
+    "id": "prayer",
+    "title": "Prayer",
+    "creator": "Outside da Box / Diocese of Wheeling-Charleston",
+    "runtime": "02:58",
+    "language": "English",
+    "kind": "Documentary testimony",
+    "tags": [
+      "Prayer",
+      "Faith",
+      "Gratitude"
+    ],
+    "summary": "Teenagers from the Diocese of Wheeling-Charleston describe prayer as a personal conversation with God. They talk about gratitude, busy routines, praying around friends and asking Mary to pray with them in this short VCAT reflection.",
+    "contentNote": "A Catholic documentary reflection, not a narrative drama. Includes the Hail Mary and references to Mary praying with and for believers; the teenagers describe their own prayer habits and beliefs.",
+    "youtube": "https://www.youtube.com/watch?v=kTnFPDQpTuI",
+    "source": "https://www.odbfilms.com/",
+    "thumbnailSource": "https://i.ytimg.com/vi_webp/kTnFPDQpTuI/maxresdefault.webp",
+    "checked": "2026-11-09",
+    "checkedDisplay": "9 November 2026",
+    "runtimeEvidence": "Current ODB Films homepage links its Prayer collection to this exact official upload. Upload description and closing copyright card credit Outside da Box and the Diocese of Wheeling-Charleston. Full English interview transcript, opening and closing cards reviewed. Exact178.221seconds, player2:58; playlist rounds to2:59. Original non-ad playback and ended state verified9November2026.",
+    "number": 75
   }
 ]
