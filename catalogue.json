@@ -119,26 +119,6 @@
     "runtimeEvidence": "Video element duration is 281 seconds (4:41), verified from the original Wonderhunt YouTube upload on 31 October 2026."
   },
   {
-    "number": 7,
-    "id": "ratchagar",
-    "title": "Ratchagar",
-    "creator": "Jesus Calls",
-    "runtime": "12:02",
-    "language": "Tamil",
-    "kind": "Narrative film",
-    "tags": [
-      "Family",
-      "Parenting"
-    ],
-    "summary": "Directed by Thomson, this Tamil short film looks at parenting and the example that raises godly children.",
-    "contentNote": "",
-    "youtube": "https://www.youtube.com/watch?v=YI9Et6WtdZ4",
-    "source": "https://www.youtube.com/@JesusCallsTamil",
-    "thumbnailSource": "https://i.ytimg.com/vi/YI9Et6WtdZ4/maxresdefault.jpg",
-    "checked": "2026-11-01",
-    "runtimeEvidence": "Player response reports 722 seconds (12:02) for the official Jesus Calls Tamil upload, verified 1 November 2026."
-  },
-  {
     "number": 8,
     "id": "a-great-day",
     "title": "A Great Day",
@@ -299,46 +279,6 @@
     "runtimeEvidence": "Official camp upload player response reports 141 seconds (2:21), verified 4 November 2026. Directed by Paul Leavitt; written and edited by Zack Lawrence."
   },
   {
-    "number": 16,
-    "id": "reset-and-restart",
-    "title": "Reset & Restart",
-    "creator": "UTurn / Jesus Calls",
-    "runtime": "20:43",
-    "language": "Tamil",
-    "kind": "Narrative film",
-    "tags": [
-      "Faith",
-      "Hope"
-    ],
-    "summary": "A young man facing unemployment rethinks his expectations, skills and work ethic after receiving Christian counsel. Presented with Samuel Dhinakaran’s reflections.",
-    "contentNote": "",
-    "youtube": "https://www.youtube.com/watch?v=_Hz98tAjvkM",
-    "source": "https://www.uturn.in/gallery",
-    "thumbnailSource": "https://i.ytimg.com/vi/_Hz98tAjvkM/hqdefault.jpg",
-    "checked": "2026-11-04",
-    "runtimeEvidence": "Official UTurn upload player response reports 1243 seconds, verified 4 November 2026. Runtime includes the presented film and accompanying reflections."
-  },
-  {
-    "number": 17,
-    "id": "disconnected",
-    "title": "Disconnected",
-    "creator": "UTurn / Jesus Calls",
-    "runtime": "09:53",
-    "language": "Tamil",
-    "kind": "Narrative film",
-    "tags": [
-      "Faith",
-      "Community"
-    ],
-    "summary": "A Tamil Christian short film about social-media distraction and reconnecting with God, with reflections from Samuel Dhinakaran.",
-    "contentNote": "",
-    "youtube": "https://www.youtube.com/watch?v=kEEfXsGr7N8",
-    "source": "https://www.uturn.in/gallery",
-    "thumbnailSource": "https://i.ytimg.com/vi/kEEfXsGr7N8/hqdefault.jpg",
-    "checked": "2026-11-04",
-    "runtimeEvidence": "Official UTurn upload player response reports 593 seconds, verified 4 November 2026. Runtime includes the presented film and accompanying reflections."
-  },
-  {
     "number": 18,
     "id": "whats-left",
     "title": "What's Left",
@@ -457,46 +397,6 @@
     "thumbnailSource": "https://i.ytimg.com/vi_webp/J1h6soAqh2s/maxresdefault.webp?v=6a4b4774",
     "checked": "2026-11-05",
     "runtimeEvidence": "Official Damo & Tim Productions upload reports 393 seconds (6:33); advancing original playback verified 5 November 2026. English dialogue verified from the exact-upload transcript. Written and directed by Damian Hempstead; produced by Anna Hempstead and Damian Hempstead, with Supavest Studios."
-  },
-  {
-    "number": 24,
-    "id": "the-value-of-life",
-    "title": "The Value of Life",
-    "creator": "UTurn / Jesus Calls",
-    "runtime": "12:58",
-    "language": "Tamil",
-    "kind": "Narrative film",
-    "tags": [
-      "Hope",
-      "Faith"
-    ],
-    "summary": "A young man overwhelmed by online gambling losses and debt encounters someone who offers Christian counsel and prayer. Includes Samuel Dhinakaran's counsel and a closing Young Partner Plan promotion.",
-    "contentNote": "Suicidal crisis and discussion of suicide, gambling addiction, debt and emotional distress. Christian counsel, not professional mental-health guidance.",
-    "youtube": "https://www.youtube.com/watch?v=iwjPCtb2WYU",
-    "source": "https://www.uturn.in/gallery",
-    "thumbnailSource": "https://i.ytimg.com/vi_webp/iwjPCtb2WYU/maxresdefault.webp?v=67af3ecc",
-    "checked": "2026-11-05",
-    "runtimeEvidence": "Official UTurn upload reports 778 seconds (12:58); original film playback verified after ads, duration 777.561 seconds, 5 November 2026. Tamil dialogue verified from the exact-upload transcript. Runtime includes Christian counsel, prayer and a Young Partner Plan promotional ending."
-  },
-  {
-    "number": 25,
-    "id": "busy-life-vs-family",
-    "title": "Busy Life vs Family",
-    "creator": "UTurn / Jesus Calls",
-    "runtime": "08:20",
-    "language": "Tamil",
-    "kind": "Narrative film",
-    "tags": [
-      "Faith",
-      "Family"
-    ],
-    "summary": "Vijay rushes past his mother's care, then learns to notice her effort and make time for family. Includes Samuel Dhinakaran's reflection and a closing Family Blessing Plan promotion.",
-    "contentNote": "Family conflict and sadness.",
-    "youtube": "https://www.youtube.com/watch?v=MRirvmD73nA",
-    "source": "https://www.uturn.in/gallery",
-    "thumbnailSource": "https://i.ytimg.com/vi/MRirvmD73nA/maxresdefault.jpg?v=663f5ed5",
-    "checked": "2026-11-06",
-    "runtimeEvidence": "Official UTurn upload reports 500 seconds (8:20); film playback verified after ads, duration 500.161 seconds, 6 November 2026. Tamil dialogue verified from the exact-upload transcript. Runtime includes Samuel Dhinakaran's reflection and a Family Blessing Plan promotion."
   },
   {
     "number": 26,
